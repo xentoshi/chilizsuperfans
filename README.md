@@ -1,1 +1,1 @@
-# SuperFans - Your Gateway to Verifiable Work Credentials on the Blockchai
+# SuperFans - Connect with your superfans
